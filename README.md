@@ -1,4 +1,4 @@
-# Route_planning
+# URC_Route_planning
 For this project height maps of Mars from the Lunar & Planetary Laboratory of the University of Arizona were used to develop a classification neural network. 
 
 ![Mars_surface](https://user-images.githubusercontent.com/78834111/155245858-4782dbee-2df1-4062-8d32-1477ddd8f804.png)
